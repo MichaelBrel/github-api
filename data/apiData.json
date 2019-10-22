@@ -1,0 +1,6 @@
+{
+    "baseUrl": "https://api.github.com",
+    "repoUrl": "https://api.github.com/user/repos",
+    "deleteRepositoryEndpoint": "/repos/automation-githubb/",
+    "bearerToken": "2169cce3434e12498defcc13b67f6017df33a0ce"
+}
