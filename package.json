@@ -1,0 +1,26 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelBrel/github-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelBrel/github-api/issues"
+  },
+  "homepage": "https://github.com/MichaelBrel/github-api#readme",
+  "devDependencies": {
+    "jasmine": "^3.5.0"
+  },
+  "dependencies": {
+    "got": "^9.6.0"
+  }
+}
