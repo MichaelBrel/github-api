@@ -2,5 +2,7 @@
     "baseUrl": "https://api.github.com",
     "repoUrl": "https://api.github.com/user/repos",
     "deleteRepositoryEndpoint": "/repos/automation-githubb/",
-    "bearerToken": "2169cce3434e12498defcc13b67f6017df33a0ce"
+    "bearerToken": "d9d03541412a2e8ae1c9c07433414ef2b65192c7",
+    "testRepo": "get-repo-test",
+    "gitOwnerName": "automation-githubb"
 }
