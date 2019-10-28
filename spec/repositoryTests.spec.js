@@ -1,8 +1,9 @@
 const Repository = require("../api-client/Repository");
 let repository = new Repository();
+const API_DATA = require('../data/apiData.json');
 
 describe('List repositories', function () {
-  const firstRepositoryName = "get-repo-test";
+  const firstRepositoryName = API_DATA.testRepo;
 
   it('First repository name should match given repository name', async function () {
     response = await repository.getAllRepositories();
